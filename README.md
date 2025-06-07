@@ -11,11 +11,11 @@ Bird Detection using deep learning models like YOLOv5 to identify and locate bir
    4. Easy to retrain on custom bird datasets
 
 # Technologies Used
-   Python
-   PyTorch
-   YOLOv5
-   OpenCV
-   Jupyter Notebook
+   - Python
+   - PyTorch
+   - YOLOv5
+   - OpenCV
+   - Jupyter Notebook
    
 # How To Run
 git clone https://github.com/SamanvithaGowda/Bird-Detection.git
