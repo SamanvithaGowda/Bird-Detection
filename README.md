@@ -21,11 +21,14 @@ Bird Detection using deep learning models like YOLOv5 to identify and locate bir
 git clone https://github.com/SamanvithaGowda/Bird-Detection.git
 
 #Change Directory
+
 cd bird-detection
 
 #Install the requirements
+
 pip install -r requirements.txt
 
 #Command to run
+
 python detect.py --source path/to/image_or_video
 
